@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Ch1hs0eD8RPuve0P5QCV">
+    <mxGraphModel dx="1720" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wcQtS_0JzcW2NVctUTon-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Flask Application&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;(Python Backend)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="285" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Participant Data&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;5 Participants&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;25 Study Passwords&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="285" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-4" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-2" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="365" y="350" as="sourcePoint" />
+            <mxPoint x="415" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Traditional Approach&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;RockYou Dictionary&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;AI-Assisted Approach&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Public Profile Data&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="520" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-8" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-3" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="330" />
+              <mxPoint x="190" y="330" />
+            </Array>
+            <mxPoint x="420" y="390" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-9" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-3" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-6" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.0036" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="330" />
+              <mxPoint x="660" y="330" />
+            </Array>
+            <mxPoint x="350" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Personalized Dictionary&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="520" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Ollama / Llama 3.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Profile Interface&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="520" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;AI Password Testing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Max: 3,000 Guesses&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="520" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;RockYou Password Testing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Max: 3,000 Guesses&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="50" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-16" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-5" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="750" as="sourcePoint" />
+            <mxPoint x="340" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-17" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-6" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-18" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-11" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-19" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-10" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Results Comparison&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Exact Matches&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Guess Rankings&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Similarity Analysis&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="285" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-21" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-14" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="810" />
+              <mxPoint x="425" y="810" />
+            </Array>
+            <mxPoint x="710" y="700" as="sourcePoint" />
+            <mxPoint x="760" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcQtS_0JzcW2NVctUTon-22" edge="1" parent="1" source="wcQtS_0JzcW2NVctUTon-12" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" target="wcQtS_0JzcW2NVctUTon-20" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.5833" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="810" />
+              <mxPoint x="425" y="810" />
+            </Array>
+            <mxPoint x="660" y="810" as="sourcePoint" />
+            <mxPoint x="760" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
